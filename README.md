@@ -12,7 +12,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 > Undergraduate in **Informatics Engineering** at Bandung Institute of Technology, with interests in **Data Science**, **AI/ML**, and **Software Development**. Having developed many software projects and participated in several data science competitions, I am accustomed to learning through hands-on projects and practical implementation.
 
@@ -29,19 +29,19 @@ interests  :
 
 ---
 
-## 🎓 Education
+## Education
 
 | | |
 |---|---|
-| 🏫 **Institut Teknologi Bandung** | Bachelor of Informatics Engineering |
-| 📅 2023 – Present | Bandung, Indonesia 🇮🇩 |
+| **Institut Teknologi Bandung** | Bachelor of Informatics Engineering |
+| 2023 – Present | Bandung, Indonesia 🇮🇩 |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
  
 <div align="center">
-**💻 Programming Languages**
+**Programming Languages**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -56,7 +56,7 @@ interests  :
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white)
  
-**🌐 Software Development**
+**Software Development**
  
 ![Android](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -74,7 +74,7 @@ interests  :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  
-**🤖 Data Science & AI**
+**Data Science & AI**
  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -86,7 +86,7 @@ interests  :
 </div>
 ---
 
-## 🏆 Language Distribution (by Repository)
+## Language Distribution (by Repository)
 
 <div align="center">
 
@@ -97,7 +97,7 @@ interests  :
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div align="center">
 
