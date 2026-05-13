@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+%40+ITB+%F0%9F%8E%93;Data+Science+%26+AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+%40+ITB+%F0%9F%8E%93;Data+Science+%26+AI%2FML+Engineering+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,12 +22,9 @@ university : Institut Teknologi Bandung (ITB)
 major      : Informatics Engineering
 batch      : 2023 – Present
 interests  :
-  - Data Science
   - Artificial Intelligence & Machine Learning
-  - Software Development
-achievements:
-  - 🦈 Pull Shark x2
-  - 💥 YOLO
+  - Software Engineering
+  - Data Science
 ```
 
 ---
@@ -65,27 +62,6 @@ achievements:
 
 ---
 
-## 📊 Language Usage
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmaanhaniif&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=salmaanhaniif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=salmaanhaniif&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" />
-
-</div>
-
----
-
 ## 🏆 Language Distribution (by Repository)
 
 <div align="center">
@@ -94,29 +70,6 @@ achievements:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmaanhaniif&theme=github_dark)
 
 </div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmaanhaniif&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a2040)](https://github.com/salmaanhaniif)
-
-</div>
-
----
-
-## 🚀 Highlighted Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Algeo01-23056](https://github.com/salmaanhaniif/Algeo01-23056) | Linear Algebra & Geometry — Tugas Besar IF2123 | Java |
-| [Algeo02-23017](https://github.com/salmaanhaniif/Algeo02-23017) | Linear Algebra & Geometry — Part 2 | TypeScript |
-| [PCA Bitcoin Prediction](https://github.com/salmaanhaniif/PCA_forSequentialFinancialDataset_Bitcoin) | Bitcoin price prediction optimization using PCA | Python / Jupyter |
-| [Fraud Detection](https://github.com/salmaanhaniif/FraudDetection_IndonesianNewsInSocmed) | Indonesian news fraud detection on social media | Python |
-| [IQ Puzzler Solver](https://github.com/salmaanhaniif/Tucil1_13523056) | Brute-force puzzle solver | Java |
-| [Tubes1 PistonVarioBoreUp](https://github.com/salmaanhaniif/Tubes1_PistonVarioBoreUp) | Algorithm Strategy — IF2211 | C# |
 
 ---
 
@@ -134,11 +87,9 @@ achievements:
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=salmaanhaniif&color=58a6ff&style=flat-square&label=Profile+Views" />
-
   <br/><br/>
 
-  <em>"First, solve the problem. Then, write the code."</em>
+  <em>"First, solve the problem. Then, write the code (optional)."</em>
 
 </div>
 
